@@ -15,4 +15,3 @@ Official website : https://www.torproject.org/
     SocksPolicy accept 172.17.0.0/16
     SocksPolicy reject *
     Log notice stdout
-    DataDirectory /var/lib/tor
